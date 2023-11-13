@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/admin-panel-react/static/css/main.5649748d.css",
+    "main.js": "/admin-panel-react/static/js/main.3ebe153c.js",
+    "static/js/787.6f41c9b8.chunk.js": "/admin-panel-react/static/js/787.6f41c9b8.chunk.js",
+    "index.html": "/admin-panel-react/index.html",
+    "main.5649748d.css.map": "/admin-panel-react/static/css/main.5649748d.css.map",
+    "main.3ebe153c.js.map": "/admin-panel-react/static/js/main.3ebe153c.js.map",
+    "787.6f41c9b8.chunk.js.map": "/admin-panel-react/static/js/787.6f41c9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5649748d.css",
+    "static/js/main.3ebe153c.js"
+  ]
+}
